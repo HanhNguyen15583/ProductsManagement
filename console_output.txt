@@ -1,0 +1,32 @@
+P03     Sugar     12     25.1
+P02     Apple     15     4.3
+P07     Beers     11     12.2
+P04     Books     19     5.2
+P05     Roses     17     15.4
+P15     Lemon     14     4.0
+P20     Quack     24     4.0
+P01     hkgfm     50     34.5
+P00     kliou     42     5.0
+P18     ggggg     55     5.5
+P25     hhhhh     60     3.3
+P30     lllll     8     8.8
+
+1100
+
+
+Them vao List thanh cong!
+
+P03     Sugar     12     25.1
+P02     Apple     15     4.3
+P07     Beers     11     12.2
+P04     Books     19     5.2
+P05     Roses     17     15.4
+P15     Lemon     14     4.0
+P20     Quack     24     4.0
+P01     hkgfm     50     34.5
+P00     kliou     42     5.0
+P18     ggggg     55     5.5
+P25     hhhhh     60     3.3
+P30     lllll     8     8.8
+
+Tam biet. Hen gap lai!
